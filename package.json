@@ -1,18 +1,9 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Omkar Santosh Bhosle",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
+  "author": "Omkar Bhosle",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/omkarbhosle2002/my-project.git"
   }
 }
